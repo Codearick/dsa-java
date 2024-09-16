@@ -1,0 +1,37 @@
+# Ignore all compiled class files
+*.class
+\*.class
+*\*.class
+\*\*.class
+
+# Ignore log files and database
+*.log
+*.db
+
+# Ignore package files
+*.jar
+*.war
+*.ear
+
+# Ignore Maven & Gradle directories
+target/
+build/
+out/
+
+# Ignore IDE project files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+\*.DS_Store
+\*\*,DS_Store
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
+
