@@ -1,26 +1,34 @@
-### Java ###
-# Compiled class file
+# Ignore all compiled class files
+\*.class
 *.class
 
-# Log file
+# Ignore log files and database
 *.log
+*.db
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# Ignore package files
 *.jar
 *.war
-*.nar
 *.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Ignore Maven & Gradle directories
+target/
+build/
+out/
+
+# Ignore IDE project files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+\*.DS_Store
+
+# Ignore IntelliJ IDEA project files
+/.idea/
+/*.iml
 
