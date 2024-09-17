@@ -1,7 +1,3 @@
-Here’s the **README** file for the sorting practice questions:
-
----
-
 # Basic Sorting Algorithms - Practice Questions
 
 This repository contains practice questions that involve implementing various sorting algorithms in **descending order**. Each question requires you to use a different sorting algorithm to sort a given array.
